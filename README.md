@@ -75,12 +75,29 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	Verify the generated waveform using Tabulation and Model Waveform
 
 Program
-
+```
+am=6;
+fm=390;
+ac=12;
+fc=3900;
+fs=39000;
+t=0:1/fs:2/fm;
+em=am*cos(2*3.14*fm*t);
+subplot(3,1,1);
+plot(t,em);
+ec=ac*cos(2*3.14*fc*t);
+subplot(3,1,2);
+plot(t,ec);
+eam=ac*(1+(em/ac)).*cos(2*3.14*fc*t);
+subplot(3,1,3);
+plot(t,eam);
+```
 
 
 Output Waveform
 
 
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/2ff09b8c-a126-4cf7-a519-e5e2da43a5ae" />
 
 
 
