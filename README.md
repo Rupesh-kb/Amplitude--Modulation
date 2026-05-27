@@ -2,17 +2,17 @@
 
 ## EXP NO: 1	GENERATION AND DETECTION OF AM
 
-AIM:
+## AIM:
 
 To generate and detect the amplitude modulation and demodulation u s i n g S C I L A B and to calculate modulation index of AM.
 
-EQUIPMENTS REQUIRED
+## EQUIPMENTS REQUIRED
 
 •	Computer with i3 Processor
 
 •	SCI LAB
 
-THEORY:
+## THEORY:
 
 Modulation can be defined as the process by which the characteristics of carrier wave are varied in accordance with the modulating wave (signal). Modulation is performed in a transmitter by a circuit called a modulator.
 Need for modulation is as follows:
@@ -31,7 +31,7 @@ Amplitude Modulation is the process of changing the amplitude of a relatively hi
 
 Note: Keep all the switch faults in off position
 
-Algorithm
+## Algorithm
 1.	Define Parameters
 First, define the parameters for your signals:
 •	Carrier frequency (fc)
@@ -74,7 +74,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Program
+## Program
 ```
 am=11;
 fm=1821;
@@ -94,30 +94,30 @@ plot(t,eam);
 ```
 
 
-Output Waveform
+## Output Waveform
 
 <img width="1742" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d62437a-f478-491b-9830-9d76d7095e3e" />
 
 
 
-TABULATION:
+## TABULATION:
 
 <img width="1546" height="1031" alt="WhatsApp Image 2026-05-27 at 8 36 26 AM" src="https://github.com/user-attachments/assets/52460247-8109-44ce-906e-f360a53a86a5" />
 
 
 
-Calculation
+## Calculation
 
 <img width="1306" height="1600" alt="WhatsApp Image 2026-05-27 at 8 37 16 AM" src="https://github.com/user-attachments/assets/8c2a57b1-450e-4b3f-aacb-6170e2df4e01" />
 
 
 
-MODEL GRAPH
+## MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
 
  
  
 
 
-RESULT:
+## RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
