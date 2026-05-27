@@ -1,6 +1,6 @@
 # Amplitude-Modulation
 
-EXP NO: 1	GENERATION AND DETECTION OF AM
+## EXP NO: 1	GENERATION AND DETECTION OF AM
 
 AIM:
 
@@ -76,11 +76,11 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 ```
-am=6;
-fm=390;
-ac=12;
-fc=3900;
-fs=39000;
+am=11;
+fm=1821;
+ac=16.5;
+fc=18210;
+fs=182100;
 t=0:1/fs:2/fm;
 em=am*cos(2*3.14*fm*t);
 subplot(3,1,1);
@@ -96,18 +96,19 @@ plot(t,eam);
 
 Output Waveform
 
-
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/2ff09b8c-a126-4cf7-a519-e5e2da43a5ae" />
+<img width="1742" height="1080" alt="image" src="https://github.com/user-attachments/assets/8d62437a-f478-491b-9830-9d76d7095e3e" />
 
 
 
 TABULATION:
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/c28810ce-cbc0-4669-b1f0-5c5116e34668" />
+<img width="1546" height="1031" alt="WhatsApp Image 2026-05-27 at 8 36 26 AM" src="https://github.com/user-attachments/assets/52460247-8109-44ce-906e-f360a53a86a5" />
+
 
 
 Calculation
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/109108d4-15a2-4dfa-929d-516c72048462" />
+
+<img width="1306" height="1600" alt="WhatsApp Image 2026-05-27 at 8 37 16 AM" src="https://github.com/user-attachments/assets/8c2a57b1-450e-4b3f-aacb-6170e2df4e01" />
 
 
 
