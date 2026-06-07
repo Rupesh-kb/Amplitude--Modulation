@@ -102,13 +102,15 @@ plot(t,eam);
 
 ## TABULATION:
 
-<img width="1546" height="1031" alt="WhatsApp Image 2026-05-27 at 8 36 26 AM" src="https://github.com/user-attachments/assets/52460247-8109-44ce-906e-f360a53a86a5" />
+<img width="1600" height="946" alt="WhatsApp Image 2026-06-07 at 6 44 04 PM" src="https://github.com/user-attachments/assets/068eff4c-1d3a-4bb5-b6ec-6470f7946893" />
+
 
 
 
 ## Calculation
 
-<img width="1306" height="1600" alt="WhatsApp Image 2026-05-27 at 8 37 16 AM" src="https://github.com/user-attachments/assets/8c2a57b1-450e-4b3f-aacb-6170e2df4e01" />
+<img width="1600" height="1140" alt="WhatsApp Image 2026-06-07 at 6 44 08 PM" src="https://github.com/user-attachments/assets/dded15eb-d1f7-4e21-968f-366a82dce19d" />
+
 
 
 
